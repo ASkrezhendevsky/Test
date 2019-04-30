@@ -21,3 +21,4 @@ void main(void) {
 	printf("\tResult: %f.",s);
 	
 }
+}
